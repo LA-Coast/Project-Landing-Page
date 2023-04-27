@@ -15,3 +15,21 @@ ul {
     gap: 10px;
     display: flex;
 }
+
+/*changes of the layout information section*/
+.information {
+    text-align: center;
+}
+.title {
+    margin-bottom: 32px;
+}
+
+.sub-information {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.info {
+    max-width: 160px;
+}

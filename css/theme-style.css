@@ -1,3 +1,5 @@
+/*changes of the theme of the header section*/
+
 .logo {
     color: #F9FAF8;
     font-size: 24px;
@@ -11,7 +13,6 @@ li {
     font-size: 18px;
 }
 
-/* hero text*/
 h1 {
     color: #F9fAF8;
     font-size: 48px;
@@ -20,5 +21,18 @@ h1 {
 
 p {
     color: #E5E7EB;
+    font-size: 18px;
+}
+
+/*changes of the theme information section*/
+
+.title {
+    font-size: 36px;
+    font-weight: 800;
+    color: #1f2937;
+}
+
+.text {
+    color: #1f2937;
     font-size: 18px;
 }
