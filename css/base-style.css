@@ -1,5 +1,10 @@
 body {
+    font-family: 'Roboto';
+    margin: 0;
+}
+
+header {
+    background-color: #1F2937;
     display: flex;
-    justify-content: space-between;
-    font-family: Helvetica, Arial, sans-serif;
+    width: 100%;
 }

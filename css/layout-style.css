@@ -1,21 +1,17 @@
-ul {
-    gap: 10px;
-}
+/*changes of the layout of the header section*/
 
 header {
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
-.left, .right {
+.logo, .links {
     display: flex;
     align-items: center;
 }
 
 ul {
+    gap: 10px;
     display: flex;
-}
-
-.header-text {
-    flex-direction: column;
 }
