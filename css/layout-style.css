@@ -1,0 +1,21 @@
+ul {
+    gap: 10px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.left, .right {
+    display: flex;
+    align-items: center;
+}
+
+ul {
+    display: flex;
+}
+
+.header-text {
+    flex-direction: column;
+}
