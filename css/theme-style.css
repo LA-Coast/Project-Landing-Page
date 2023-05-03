@@ -19,12 +19,12 @@ h1 {
     font-weight: bolder;
 }
 
-p {
+.hero-main-text {
     color: #E5E7EB;
     font-size: 18px;
 }
 
-/*changes of the theme information section*/
+/*changes of the information theme section*/
 
 .title {
     font-size: 36px;
@@ -35,4 +35,37 @@ p {
 .text {
     color: #1f2937;
     font-size: 18px;
+}
+
+/*changes of the quote theme section*/
+.quote-text {
+    color: #1f2937;
+    font-size: 36px;
+    font-style: italic;
+}
+
+.attribution {
+    text-align: right;
+    color: #1f2937;
+    font-size: 36px;
+    font-weight: 800;
+}
+
+/*changes of the call to action theme section*/
+.call {
+    font-weight: bold;
+    font-size: 18px;
+    color: white;
+}
+
+.sign {
+    font-size: 18px;
+    color: white;
+}
+
+/*changes of the footer theme section*/
+.footer-text {
+    color: white;
+    font-size: 18px;
+    text-align: center;
 }

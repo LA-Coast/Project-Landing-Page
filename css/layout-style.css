@@ -33,3 +33,19 @@ ul {
 .info {
     max-width: 160px;
 }
+
+/*changes of the layout quote section*/
+.quote-text {
+    text-align: justify;
+}
+
+.attribution {
+    text-align: right;
+}
+
+/*changes of the layout call to action section*/
+
+.sign-up {
+    display: flex;
+    justify-content: space-between;
+}

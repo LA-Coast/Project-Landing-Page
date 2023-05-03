@@ -8,3 +8,17 @@ header {
     display: flex;
     width: 100%;
 }
+
+.quote {
+    background-color: #e5e7eb;
+    width: 100%;
+}
+
+.sign-up {
+    background-color: #3882F6;
+}
+
+footer {
+    background-color: #1F2937;
+    width: 100%;
+}

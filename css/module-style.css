@@ -1,9 +1,17 @@
-button {
+.hero-button {
     border-radius: 8px;
     border: none;
     padding: 10px;
     text-align: center;
     background-color: #3882f6;
     color: white;
+    font-weight: bold;
+}
+.sign-up-button {
+    border-color: white;
+    text-align: center;
+    background-color: #3882f6;
+    color: white;
+    font-size: 18px;
     font-weight: bold;
 }
